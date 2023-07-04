@@ -1,5 +1,5 @@
 ## Olá! Eu sou Ângelo Ruan
-<a href="https://github.com/AngeloRuan09/AngeloRuan09/blob/main/LICENSE"></a>
+
 
 ### Graduado em análise e desenvolvimento de sistemas pela Estacio.
 #### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
