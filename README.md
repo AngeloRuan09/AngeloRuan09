@@ -14,8 +14,8 @@
 
 <div>
   <a href="https://github.com/AngeloRuan09">
-  <img height="180em" src="/"/>
-  <img height="180em" src="/"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeloRuan09&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloRuan09&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Angelo-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
