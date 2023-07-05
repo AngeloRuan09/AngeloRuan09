@@ -1,13 +1,13 @@
 ## Olá! Eu sou Ângelo Ruan
 
 
-### Graduado em análise e desenvolvimento de sistemas pela Estacio.
+### Graduando em análise e desenvolvimento de sistemas pela Estacio.
 #### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 #### Espero que gostem dos conteúdos 😉
 ####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
 ### <a href="mailto:angeloruan005@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
 
-### Graduated in systems analysis and development
+### Graduating in systems analysis and development
 #### Here is my portfolio
 #### I hope you like 😉
 #### If you want to contact me, send me an email and let's be a team!
